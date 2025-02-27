@@ -1,6 +1,6 @@
-<footer>
-    <p>Digital School</p>
-</footer>
+        <footer>
+            <p>&copy; <?php echo date("Y"); ?> Digital School</p>
+        </footer>
 
-</body>
+    </body>
 </html> 
