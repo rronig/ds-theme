@@ -8,7 +8,7 @@
             the_content();
         endwhile;
     } else {
-        echo '<p>No content available</p>'; // Added missing semicolon
+        echo '<p>No content available</p>';
     } ?>
 </main>
 
